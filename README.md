@@ -8,6 +8,7 @@ Clone this repo first, obviously. Then...
 #### Slightly Cool Option
 4. Enter `satansays` in your terminal and tell satan what to say
 
+<!-- TODO add options for someone using zshell but no .zshrc file yet -->
 #### Way Cooler Option (if you run zsh) ⫛
 4. Run this command to make a bash function in your .zshrc file and make it ready to use
 ```
